@@ -1,0 +1,5 @@
+algorytm,najlepszy wynik,średni wynik,czas
+Simulated Annealing,593.0,641.8,0.005492565200029276
+Genetic Algorithm,579.0,582.0,0.4914624282999739
+Ant Colony Optimization,579.0,590.0,2.293218271199976
+Bees Algorithm,591.0,594.9,0.392500699700031
